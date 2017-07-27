@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\sktGame\games\bubbleDragon\UI\scr_ui\UI整合相对布局最终版</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\sktGame\games\bubbleDragon\UI\scr_ui\UI整合相对布局最终版\Resources</Resources>
+  <Name>paopao</Name>
+  <JsonFileName>paopao.json</JsonFileName>
+  <JsonFolder>D:\sktGame\games\bubbleDragon\UI\scr_ui\UI整合相对布局最终版\Json</JsonFolder>
+  <JsonList>
+    <string>buyItem.json</string>
+    <string>buyPropertyItem.json</string>
+    <string>gameScene.json</string>
+    <string>helpItem.json</string>
+    <string>helpUI.json</string>
+    <string>paopaoBatch.json</string>
+    <string>passFailed.json</string>
+    <string>passSuccess.json</string>
+    <string>slectStage.json</string>
+    <string>stageSelectButton.json</string>
+    <string>startUI.json</string>
+    <string>storeUI.json</string>
+    <string>unblockingStage.json</string>
+    <string>UICombo_1.json</string>
+    <string>PauseScene.json</string>
+    <string>startUI_0.json</string>
+    <string>hotGift.json</string>
+    <string>resurrectionGift.json</string>
+    <string>yindao.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>640</Width>
+    <Height>960</Height>
+  </CanvasSize>
+  <filePath>D:\sktGame\games\bubbleDragon\UI\scr_ui\UI整合相对布局最终版\paopao.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>stageSelectButton.json</CurrentUIJson>
+</UIProject>

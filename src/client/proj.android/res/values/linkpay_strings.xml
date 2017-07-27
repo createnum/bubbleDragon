@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="linkpay_verification_product">商品验证中</string>
+    <string name="linkpay_product_expired">商品已过期</string>
+    <string name="linkpay_wrong_channelid">渠道信息错误</string>
+    <string name="linkpay_back">退出</string>
+    <string name="linkpay_cancel">取消</string>
+    <string name="linkpay_mobile_calls_pay">手机话费支付</string>
+    <string name="linkpay_confirm_purchase">确认支付</string>
+    <string name="linkpay_payment_alert">欢迎使用中国联通手机话费支付功能，支付成功后系统会向您发送提示短信。</string>
+    <string name="linkpay_copyright">版权所有&#160;&#160;&#160;&#160;中国联通</string>
+    <string name="linkpay_prompt">提示</string>
+    <string name="linkpay_confirm">确认</string>
+    <string name="linkpay_payagain">重新购买</string>
+    <string name="linkpay_gamename_title">应用名称：</string>
+    <string name="linkpay_company_title">提供商：</string>
+    <string name="linkpay_product_title">商品：</string>
+    <string name="linkpay_paidamount_title">支付金额：</string>
+    <string name="linkpay_yuan">元</string>
+    <string name="linkpay_service_phonenum">客服电话：</string>
+    <string name="linkpay_verificationcode">验证码：</string>
+    <string name="linkpay_please_enter_verificationcode">请输入验证码：</string>
+    <string name="linkpay_please_enter_verificationcode_toast">请输入验证码</string>
+    <string name="linkpay_verificationcode_wrong">验证码输入错误</string>
+    <string name="linkpay_morethen_300_thismonth">对不起，本月支付额已超300元</string>
+    <string name="linkpay_pay_success">支付成功</string>
+    <string name="linkpay_pay_faild">支付失败</string>
+    <string name="linkpay_sms_timeout_prompt">支付短信息经过30秒未发送成功，请确认短信息是否被拦截。如果被拦截，请点击下方退出按钮退出支付，如果未被拦截，请等待支付短信息发送。</string>
+    <string name="linkpay_sms_timeout_dialog_message">如果未进行短信拦截，请不要退出支付，退出可能会导致扣费并且得不到游戏物品！</string>
+    <string name="linkpay_pay_faild_prompt">支付失败，请重新购买！</string>
+    <string name="linkpay_deduction_from_your_phonenum">已从您的手机账户中扣除</string>
+    <string name="linkpay_callss">话费！</string>
+    <string name="linkpay_waiting_SMS_pay">短信支付中</string>
+    <string name="linkpay_waiting_title">请稍等</string>
+    <string name="linkpay_confirm_char">确定</string>
+    <string name="linkpay_out_of_money">支付额数过大，不能支付</string>
+    <string name="linkpay_wrong_money">支付额数错误，不能支付</string>
+    <string name="linkpay_no_payment_return">用户未支付退出</string>
+    <string name="linkpay_wrong_payment_return">游戏参数错误，不能支付</string>
+    <string name="linkpay_wrong_payment_number">请使用联通号码进行支付</string>
+    <string name="linkpay_wrong_getsim">获取SIM卡状态失败</string>
+	<string name="pay_confirm_des">&#160;&#160;&#160;&#160;本次支付 %1$s元，点击确认支付即同意发送短信以确认付费，本次支付由"中国联通APP"提供，信息费 %2$s元/次（不含通讯费），由中国联通APP代收。客服电话： %3$s</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">泡泡龙</string>
+    <string name="version_name">3.0</string>
+	<string name="newbie_gift_gold">10</string>
+    <string name="version_serial_number">2.4.zc.r.iap.z01.000.mji.17</string>
+    <string name="company">公司信息</string>
+    <string name="servicephone">客服电话</string>
+    <string name="screenresolution_width">400</string>
+    <string name="screenresolution_height">600</string>
+    <string name="app_name_code">unknow</string>
+</resources>

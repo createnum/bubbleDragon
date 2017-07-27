@@ -1,0 +1,57 @@
+﻿生成启动时间为 2017/4/1 10:55:51。
+     1>项目“D:\sktGame\games\bubbleDragon\src\client\proj.win32\bubbleDragon.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(356,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\include" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\kazmath\include" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\platform\win32" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\platform\third_party\win32" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\cocos2dx\platform\third_party\win32\OGLES" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\external" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\external\chipmunk\include\chipmunk" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\CocosDenshion\include" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\extensions\sktTools" /I"D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\extensions" /I..\Classes /I.. /I..\bin /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\\" /Fd"Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\vc120.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\gameScene.cpp
+         gameScene.cpp
+     1>d:\sktgame\games\bubbledragon\src\client\gamescene.cpp(385): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\sktgame\games\bubbledragon\src\client\gamescene.cpp(3089): warning C4018: “<”: 有符号/无符号不匹配
+       PreLinkEvent:
+         if not exist "D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\" mkdir "D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\"
+         xcopy /Y /Q "D:\sktGame\games\bubbleDragon\src\client\proj.win32\..\..\..\..\..\backers\cocos2d-x-2.2.2\external\libwebsockets\win32\lib\*.*" "D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\"
+         :VCEnd
+         复制了 2 个文件
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\bubbleDragon.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\ /LIBPATH:..\bin\lib libExtensions.lib libcocos2d.lib libCocosDenshion.lib opengl32.lib glew32.lib libBox2d.lib libchipmunk.lib libcurl_imp.lib pthreadVCE2.lib websockets.lib newbeeUtilsd.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\bubbleDragon.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\bubbleDragon.pdb" /SUBSYSTEM:WINDOWS,"5.01" /HEAP:"0x4000000","0x4000000" /STACK:"0x4000000","0x4000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\bubbleDragon.lib" /MACHINE:X86 /SAFESEH Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\AnimationTools.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\AppDelegate.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\Bubble.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\CommonFunc.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\GamePay.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\HelpItemDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\md5.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\simulatorGameScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\simulatorTwoGameScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\stageMapDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\gameScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\monitoringCenter.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\myGame.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\stageMapInfo.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\stageSelectScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\StartScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\storeBuyItenDict.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\ToolsGuideLine.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\uiBuyPropertyScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\uiCombo.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\uiDeblockingScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\uiHelpScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\uiPassGameScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\uiPauseScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\uiResurrectionScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\uiStoreScene.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\XMLTools.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\main.obj
+         Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\myUtilsConfig.obj
+         D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\libcocos2d.lib
+         D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\libCocosDenshion.lib
+         D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\libExtensions.lib
+         D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\libBox2D.lib
+         D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\libchipmunk.lib
+         bubbleDragon.vcxproj -> D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\bubbleDragon.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\mt.exe /nologo /verbose /out:"D:\sktGame\games\bubbleDragon\src\client\proj.win32\Debug.win32\bubbleDragon.exe.manifest" /manifest Debug.win32\..\..\temp\IntermediateFiles\bubbleDragon\debug\bubbleDragon.exe.intermediate.manifest
+     1>已完成生成项目“D:\sktGame\games\bubbleDragon\src\client\proj.win32\bubbleDragon.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.02

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="#0000" 
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" 
+        android:orientation="vertical" >
+    
+         <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content" >
+
+             <TextView
+                 android:id="@+id/goodsName"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentLeft="true"
+                 android:text="道具"
+                 android:textColor="#000000"
+                 android:layout_marginTop="5dp"
+                 android:textAppearance="?android:attr/textAppearanceLarge" />
+
+             <Button
+                 android:id="@+id/payConfirmClose"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentRight="true"
+                 android:layout_alignParentTop="true"
+                 android:background="@drawable/anniutuichu"
+                 android:layout_marginTop="2dp"
+                 android:gravity="center" />
+
+             <TextView
+                 android:id="@+id/textView1"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentTop="true"
+                 android:layout_marginTop="5dp"
+                 android:layout_toLeftOf="@+id/goodsCost"
+                 android:text="￥"
+                 android:textColor="#000000"
+                 android:textAppearance="?android:attr/textAppearanceLarge" />
+
+             <TextView
+                 android:id="@+id/goodsCost"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_marginTop="5dp"
+                 android:layout_marginRight="17dp"
+                 android:layout_toLeftOf="@+id/payConfirmClose"
+                 android:text="2元"
+                 android:textColor="#000000"
+                 android:textAppearance="?android:attr/textAppearanceLarge" />
+
+         </RelativeLayout>
+          
+          <RelativeLayout
+              android:layout_width="match_parent"
+              android:layout_height="120dp" >
+              <Button
+                  android:id="@+id/payConfirmConfirm"
+                  android:layout_width="80dp"
+                  android:layout_height="40dp"
+                  android:layout_marginTop="70dp"
+                  android:layout_alignParentRight="true"
+                  android:background="@drawable/anniuqueding" />
+          
+		</RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <TableLayout
+            android:id="@+id/TableLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+	        	<TextView
+	        	    android:id="@+id/tableRow1TextView1"
+	        	    android:layout_width="50dp"
+	        	    android:layout_height="wrap_content"
+	        	    android:text="游戏名称："
+	        	    android:textColor="#000000"/>
+
+       	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentTop="true"
+	            android:text="@string/app_name"
+	        	android:textColor="#000000" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+	        	<TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:text="提  供  商："
+	        	android:textColor="#000000" />
+
+       	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_alignParentTop="true"
+	            android:text="@string/company"
+	        	android:textColor="#000000" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+       	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:text="温馨提示："
+	        	android:textColor="#000000" />
+            </TableRow>
+
+        </TableLayout>
+        
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/TableLayout1" >
+	        <TableRow
+                android:id="@+id/tableRow4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+       	        <TextView
+       	        android:id="@+id/pay_confirm_des"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_alignParentTop="true"
+	            android:text="@string/pay_confirm_des"
+	        	android:textColor="#000000" />
+            </TableRow>
+        </TableLayout>
+    </RelativeLayout>
+</LinearLayout>

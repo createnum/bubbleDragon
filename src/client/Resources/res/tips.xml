@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data key="1001" value="%d连消%d分"/>
+  <data key="1002" value="奖励%d分"/>
+  <data key="1003" value="剩余%d颗桌球"/>
+  <data key="1004" value="关卡%d"/>
+  <data key="1005" value="目标分数%d"/>
+  <data key="1006" value="选择需要变色的桌球"/>
+  <data key="1007" value="旋转花费%d颗砖石"/>
+  <data key="1008" value="砸掉3*3的桌球"/>
+  <data key="1009" value="公司信息"/>
+  <data key="1010" value="公司信息"/>
+  <data key="1011" value="移动"/>
+  <data key="1012" value="联通"/>
+  <data key="1013" value="电信"/>
+  <data key="1014" value="本游戏的版权归%s所有，游戏中的文字、图片等内容均为游戏版权所有者的个人态度或立场，中国%s对此不承担任何法律责任"/>
+  <data key="1015" value="客服电话：电话信息"/>
+</include>

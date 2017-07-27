@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mm_app_id">300009161505</string>
+    <string name="mm_app_key">5987E8CD3FA4EFDFFCC15B4F941C3F92</string>
+    <string name="unicom_soft_code">201252</string>
+    <string name="unicom_soft_key">a2680d5fa5944999867e1d28</string>
+    <string name="zc_pay_zcweb_productid">ZCZY</string>
+    <string name="zc_pay_zcweb_appid">19</string>
+	<string name="visibleCommodityInfo">true</string>
+	<string name="isSecondConfirm">true</string>
+	<string name="wostore_appid">905141492020150617163143668400</string>
+    <string name="wostore_cpid">86005787</string>
+    <string name="wostore_channelid">00025249</string>
+     <string name="zc_appid">paopl_wo_118</string>
+	<!-- zc_web 长号区分-->
+    <string name="unicom_lenth_number">\'1065553610007\',\'1065547794560\'</string>
+    <string name="telecom_lenth_number">\'11888\'</string>
+    <string name="default_lenth_number">\'1065553610007\',\'1065547794560\'</string>
+</resources>

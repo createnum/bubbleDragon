@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\dictionary">
+      <UniqueIdentifier>{1ecf0188-ccf3-4bd0-b2a9-6ba0e63e5b9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\tools">
+      <UniqueIdentifier>{ea9a1810-39cc-4390-9abd-b9f7e836a02d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\UIScene">
+      <UniqueIdentifier>{4ddd72f3-5e7d-480b-ab1e-66b9815a60f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\simulator">
+      <UniqueIdentifier>{7abbac9b-1eaf-4bb5-8ac1-28451cfdd0c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gameScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Bubble.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\myGame.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\stageMapDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CommonFunc.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\stageMapInfo.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\md5.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\monitoringCenter.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="myUtilsConfig.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\StartScene.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uiHelpScene.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uiStoreScene.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uiBuyPropertyScene.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uiPassGameScene.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\storeBuyItenDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\XMLTools.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uiDeblockingScene.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\HelpItemDict.cpp">
+      <Filter>Classes\dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AnimationTools.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ToolsGuideLine.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GamePay.cpp">
+      <Filter>Classes\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uiCombo.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\stageSelectScene.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uiPauseScene.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uiResurrectionScene.cpp">
+      <Filter>Classes\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simulatorGameScene.cpp">
+      <Filter>Classes\simulator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simulatorTwoGameScene.cpp">
+      <Filter>Classes\simulator</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Bubble.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\BubbleConstant.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Utility.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\myGame.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\stageMapDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonFunc.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\stageMapInfo.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\md5.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\monitoringCenter.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\myUtilsConfig.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\StartScene.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uiHelpScene.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uiStoreScene.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uiBuyPropertyScene.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uiPassGameScene.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\publicDefine.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\storeBuyItenDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\XMLTools.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uiDeblockingScene.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\HelpItemDict.h">
+      <Filter>Classes\dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="..\AnimationTools.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ToolsGuideLine.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GamePay.h">
+      <Filter>Classes\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uiCombo.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\stageSelectScene.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uiPauseScene.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gameScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uiResurrectionScene.h">
+      <Filter>Classes\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simulatorGameScene.h">
+      <Filter>Classes\simulator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DropDownList.h">
+      <Filter>Classes\simulator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simulatorTwoGameScene.h">
+      <Filter>Classes\simulator</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

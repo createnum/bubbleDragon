@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data id="1" imagePath="ui/myRes/wfjs.png" declarePath="ui/myRes/wanfajieshao.png" declareContent="点击屏幕发射泡泡，当3个或者以上同色泡泡连接在一起时，泡泡将被消去"/>
+  <data id="2" imagePath="ui/myRes/paopaohong.png" declarePath="ui/myRes/putongpp.png" declareContent="普通泡泡共有7种颜色，当形成3个或以上同色普通泡泡时，则这些泡泡爆掉"/>
+  <data id="3" imagePath="ui/myRes/qipaolan.png" declarePath="ui/myRes/ransepp.png" declareContent="染色泡泡被击中后，会将周围泡泡染成自己颜色"/>
+  <data id="4" imagePath="ui/myRes/qipao.png" declarePath="ui/myRes/kongqipp.png" declareContent="最脆弱的泡泡，一触即破"/>
+  <data id="5" imagePath="ui/myRes/qipaojinbi.png" declarePath="ui/myRes/jinbipaopao.png" declareContent="使用泡泡将其击落，可获得5枚金币"/>
+  <data id="6" imagePath="ui/myRes/qipaoshandian.png" declarePath="ui/myRes/shandianpp.png" declareContent="消除所在行内所有的泡泡"/>
+  <data id="7" imagePath="ui/myRes/paopaobingdu.png" declarePath="ui/myRes/bingdupp.png" declareContent="感染接触到它的泡泡"/>
+  <data id="8" imagePath="ui/myRes/paopaosiwang.png" declarePath="ui/myRes/siwangbiaozhi.png" declareContent="击中或碰到则游戏直接失败！"/>
+  <data id="9" imagePath="ui/myRes/paopaomukuai.png" declarePath="ui/myRes/muban.png" declareContent="非常坚固的障碍物，只有炸弹泡泡可已炸毁"/>
+  <data id="10" imagePath="ui/myRes/paopaoshikuai.png" declarePath="ui/myRes/shikuai.png" declareContent="非常坚固的障碍物，只有炸弹泡泡可以炸毁"/>
+  <data id="11" imagePath="ui/myRes/daojuyindaoxian.png" declarePath="ui/myRes/fuzhuxian.png" declareContent="辅助发射瞄准提高精确度，瞄准线使用后只在当前局内有效"/>
+  <data id="12" imagePath="ui/myRes/daojuchuizi.png" declarePath="ui/myRes/xiaomuchui.png" declareContent="可以砸破任意一个泡泡"/>
+  <data id="13" imagePath="ui/myRes/daojucaiqiu.png" declarePath="ui/myRes/caiqiu.png" declareContent="多种颜色属性的泡泡，可用当做任意普通泡泡来使用"/>
+  <data id="14" imagePath="ui/myRes/daojuzhadan.png" declarePath="ui/myRes/zhadan.png" declareContent="接触到其它的泡泡就会发生爆炸，爆炸波会消除大量的泡泡"/>
+</include>

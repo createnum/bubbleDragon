@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data id="1" gold="300" presentGold="150" secondPresentGold="150" thirdPresentGold="150" rmb="3000"/>
+  <data id="2" gold="160" presentGold="100" secondPresentGold="100" thirdPresentGold="100" rmb="2000"/>
+  <data id="3" gold="130" presentGold="80" secondPresentGold="80" thirdPresentGold="80" rmb="1800"/>
+  <data id="4" gold="100" presentGold="80" secondPresentGold="80" thirdPresentGold="80" rmb="1500"/>
+  <data id="5" gold="50" presentGold="70" secondPresentGold="70" thirdPresentGold="70" rmb="1000"/>
+  <data id="6" gold="30" presentGold="30" secondPresentGold="30" thirdPresentGold="30" rmb="600"/>
+  <data id="7" gold="10" presentGold="5" secondPresentGold="5" thirdPresentGold="5" rmb="200"/>
+</include>

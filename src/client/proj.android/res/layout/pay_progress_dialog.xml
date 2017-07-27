@@ -1,0 +1,9 @@
+<ProgressBar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/payProgressBar"
+    style="?android:attr/progressBarStyleLarge"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true" 
+    android:backgroundDimEnabled="false"
+    android:interpolator="@android:anim/linear_interpolator" />

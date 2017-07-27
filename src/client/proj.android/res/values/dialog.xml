@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="dialog" parent="@android:style/Theme.Dialog">
+        <!-- 更换背景图片实现全透明 -->
+        <item name="android:windowBackground">@drawable/tanchuangda</item>
+        <!-- 屏幕背景不变暗 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 隐藏标题 -->
+        <item name="android:windowNoTitle">true</item>
+    </style> 
+</resources>

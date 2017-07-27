@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+	<store>
+	    <data targetID="12" gold="380" presentGold="0" rmb="2000" payCode="150618119729" payName="380金币" isVisibleInStore="true"/> 
+	    <data targetID="11" gold="280" presentGold="0" rmb="1500" payCode="150618119724" payName="280金币" isVisibleInStore="true"/>
+		<data targetID="9" gold="180" presentGold="0" rmb="1000" payCode="150618119719" payName="180金币" isVisibleInStore="true"/>
+		<data targetID="8" gold="120" presentGold="0" rmb="800" payCode="150618119717"  payName="120金币" isVisibleInStore="true"/>
+		<data targetID="7" gold="75" presentGold="0" rmb="600" payCode="150618119715" payName="75金币"   isVisibleInStore="true"/>
+		<data targetID="4" gold="20" presentGold="0" rmb="200" payCode="150618119711" payName="20金币" isVisibleInStore="true"/>
+		<data targetID="3" gold="10" presentGold="0" rmb="100" payCode="150618119710" payName="10金币" isVisibleInStore="true"/> 
+		<data targetID="11" gold="25" presentGold="20" rmb="400" payCode="150618119713" payName="45金币" isVisibleInStore="false"/>
+	</store>
+</include>

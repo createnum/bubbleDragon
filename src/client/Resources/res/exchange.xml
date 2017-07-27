@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+	<store>
+		<data targetID="3" gold="100" presentGold="0" rmb="100" payCode="30000916150501" isVisibleInStore="true"/>
+		<data targetID="4" gold="300" presentGold="0" rmb="200" payCode="30000916150502" isVisibleInStore="true"/>
+		<data targetID="7" gold="1200" presentGold="0" rmb="600" payCode="30000916150503" isVisibleInStore="true"/>
+		<data targetID="8" gold="1600" presentGold="0" rmb="800" payCode="30000916150504" isVisibleInStore="true"/>
+		<data targetID="9" gold="2100" presentGold="0" rmb="1000" payCode="30000916150505" isVisibleInStore="true"/>
+		<data targetID="11" gold="3600" presentGold="0" rmb="1500" payCode="30000916150506" isVisibleInStore="true"/>
+		<data targetID="12" gold="5400" presentGold="0" rmb="2000" payCode="30000916150507" isVisibleInStore="true"/>
+		<data targetID="1" gold="1" presentGold="0" rmb="1" payCode="30000916150511" isVisibleInStore="false"/>
+		<data targetID="2" gold="10" presentGold="0" rmb="10" payCode="30000916150512" isVisibleInStore="false"/>
+		<data targetID="5" gold="0" presentGold="0" rmb="400" payCode="30000916150508" isVisibleInStore="false"/>
+		<data targetID="6" gold="0" presentGold="0" rmb="400" payCode="30000916150509" isVisibleInStore="false"/>
+		<data targetID="10" gold="1000" presentGold="0" rmb="1800" payCode="30000916150510" isVisibleInStore="false"/>
+	</store>
+</include>
+		

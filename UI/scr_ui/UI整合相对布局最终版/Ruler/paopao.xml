@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuidesProject>
+    <Project>unblockingStage</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>storeUI</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>buyPropertyItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>passSuccess</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>passFailed</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>startUI</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>buyItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>helpItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>helpUI</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>paopaoBatch</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>gameScene</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>slectStage</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>stageSelectButton</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>startUITest</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UICombo_1</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>PauseScene</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>startUI_0</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>resurrectionGift</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>hotGift</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>yindao</Project>
+    <GuidesList />
+  </GuidesProject>
+</ArrayOfGuidesProject>
